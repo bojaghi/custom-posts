@@ -1,9 +1,11 @@
 <?php
 /**
- * @link https://developer.wordpress.org/reference/functions/register_post_type/
- * @see  \WP_Post_Type::set_props()
- * @see  get_post_type_capabilities()
- * @see  get_post_type_labels()
+ * @link         https://developer.wordpress.org/reference/functions/register_post_type/
+ * @see          \WP_Post_Type::set_props()
+ * @see          get_post_type_capabilities()
+ * @see          get_post_type_labels()
+ *
+ * @noinspection PhpExpressionResultUnusedInspection
  */
 #@@@TEMPLATE_BEGIN@@@
 [
@@ -87,6 +89,5 @@
         'template'                        => [],
         'template_lock'                   => false,
     ]
-]
-#@@@TEMPLATE_END@@@
+]#@@@TEMPLATE_END@@@
 ;

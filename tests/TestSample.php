@@ -1,5 +1,5 @@
 <?php
-namespace Bojaghi\CPT\Tests;
+namespace Bojaghi\Cpt\Tests;
 use \WP_UnitTestCase;
 
 /**
