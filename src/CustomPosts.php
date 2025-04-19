@@ -1,6 +1,6 @@
 <?php
 
-namespace Bojaghi\Cpt;
+namespace Bojaghi\CustomPosts;
 
 class CustomPosts
 {
